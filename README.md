@@ -145,7 +145,6 @@ Then access at `http://localhost:8000` or `http://your-ip:8000`
 
 **Skanda Café**
 - **Location**: Survey 33/1, Chokkana Halli Village, Opposite Manipal Academy Of Banking, Jakkur, Bangalore
-- **Phone**: +919945890984
 - **Hours**: 7 AM - 10 PM Daily
 
 ---
